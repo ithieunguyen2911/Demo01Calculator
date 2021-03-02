@@ -1,0 +1,13 @@
+F:\Project Demo DXC\Demo01-CalculatorC#OOP\Demo01CalculatorOOP\obj\Debug\netcoreapp3.1\Demo01CalculatorOOP.csprojAssemblyReference.cache
+F:\Project Demo DXC\Demo01-CalculatorC#OOP\Demo01CalculatorOOP\obj\Debug\netcoreapp3.1\Demo01CalculatorOOP.AssemblyInfoInputs.cache
+F:\Project Demo DXC\Demo01-CalculatorC#OOP\Demo01CalculatorOOP\obj\Debug\netcoreapp3.1\Demo01CalculatorOOP.AssemblyInfo.cs
+F:\Project Demo DXC\Demo01-CalculatorC#OOP\Demo01CalculatorOOP\obj\Debug\netcoreapp3.1\Demo01CalculatorOOP.csproj.CoreCompileInputs.cache
+F:\Project Demo DXC\Demo01-CalculatorC#OOP\Demo01CalculatorOOP\bin\Debug\netcoreapp3.1\Demo01CalculatorOOP.exe
+F:\Project Demo DXC\Demo01-CalculatorC#OOP\Demo01CalculatorOOP\bin\Debug\netcoreapp3.1\Demo01CalculatorOOP.deps.json
+F:\Project Demo DXC\Demo01-CalculatorC#OOP\Demo01CalculatorOOP\bin\Debug\netcoreapp3.1\Demo01CalculatorOOP.runtimeconfig.json
+F:\Project Demo DXC\Demo01-CalculatorC#OOP\Demo01CalculatorOOP\bin\Debug\netcoreapp3.1\Demo01CalculatorOOP.runtimeconfig.dev.json
+F:\Project Demo DXC\Demo01-CalculatorC#OOP\Demo01CalculatorOOP\bin\Debug\netcoreapp3.1\Demo01CalculatorOOP.dll
+F:\Project Demo DXC\Demo01-CalculatorC#OOP\Demo01CalculatorOOP\bin\Debug\netcoreapp3.1\Demo01CalculatorOOP.pdb
+F:\Project Demo DXC\Demo01-CalculatorC#OOP\Demo01CalculatorOOP\obj\Debug\netcoreapp3.1\Demo01CalculatorOOP.dll
+F:\Project Demo DXC\Demo01-CalculatorC#OOP\Demo01CalculatorOOP\obj\Debug\netcoreapp3.1\Demo01CalculatorOOP.pdb
+F:\Project Demo DXC\Demo01-CalculatorC#OOP\Demo01CalculatorOOP\obj\Debug\netcoreapp3.1\Demo01CalculatorOOP.genruntimeconfig.cache
